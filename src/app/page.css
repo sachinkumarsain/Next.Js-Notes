@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.counter{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    color: black;
+    background: url(bicycle-hd-wallpapers---background-images--cyclist-1080p-2k-4k-5k-hd-wallpapers-free-download.jpg) no-repeat scroll center / cover;
+}
+.counter .buttons button{
+    padding: 5px 10px ;
+    font-size: 22px;
+    margin: 10px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 10px 10px 10px rgb(41, 40, 40);
+}
+.counter p{
+    font-size: 40px;
+    padding:15px 25px;
+    border-radius: 50%;
+    color: red;
+    background-color: azure;
+    box-shadow: 10px 10px 10px rgb(28, 27, 27);
+}
