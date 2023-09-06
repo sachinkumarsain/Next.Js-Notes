@@ -3,6 +3,8 @@ import Image from 'next/image'
 import { useState } from 'react'
 // import styles from './page.module.css'
 // import { useClient } from 'react'
+// import styles from './page.module.css'
+// import { useClient } from 'react'
 import "./page.css"
 
 export default function Home() {
